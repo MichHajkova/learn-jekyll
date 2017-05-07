@@ -1,7 +1,8 @@
 .wrapper {
-	margin: 250px auto;
+	margin: 50px auto;
 	max-width: 800px;
 	padding: 20px;
+	text-align: center;
 	color: black;
 }
 
