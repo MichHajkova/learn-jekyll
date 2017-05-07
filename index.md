@@ -3,11 +3,9 @@ layout: page
 title: Home
 ---
 
-# Hello World! (It works!)
+# Na tìchto stránkách najdete galerii Filipa Kartouze
 
-This are the contents of the Jekyll front page.
-
-## Something to read: Sonnet LXVI.
+## Tady bude nìjaké úvodní slovo
 
 > *Tired with all these, for restful death I cry,  
 > As to behold desert a beggar born,  
