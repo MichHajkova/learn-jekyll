@@ -1,9 +1,9 @@
 .wrapper {
-	margin: 50px auto;
+	margin: 10px auto;
 	max-width: 800px;
 	padding: 20px;
 	text-align: center;
-	color: pink;
+	color: red;
 }
 
 .header {
